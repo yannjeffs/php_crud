@@ -30,10 +30,9 @@
                         </ul>
                     </li>
                 </ul>
-                <form class="d-flex" role="search">
-                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-                    <button class="btn btn-primary" type="submit" href="index.php">Search</button>
-                </form>
+                <button class="btn btn-primary" type="button" onclick="window.location.href='inscription.php'">
+                    Sign Up
+                </button>
             </div>
         </div>
     </nav>
